@@ -1,0 +1,1 @@
+A simple Python application using Tkinter that displays real-time CPU, GPU, and RAM usage and temperature. The app features a semi-transparent window that stays on top of other windows, providing convenient system monitoring.
